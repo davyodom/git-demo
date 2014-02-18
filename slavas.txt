@@ -1,2 +1,2 @@
-Slava's Feature implementation
-Added correction to the feature.
+Replaced Slava's feature with a brand new implementation
+because new requirements turned Slava's feature into junk.
